@@ -1,0 +1,3 @@
+/mnt/c/Users/LENOVO/Documents/Cdata/Project/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/LENOVO/Documents/Cdata/Project/CMakeFiles/edit_cache.dir
+/mnt/c/Users/LENOVO/Documents/Cdata/Project/CMakeFiles/a.dir

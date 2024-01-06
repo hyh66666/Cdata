@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/a.dir/project3.c.o  -o a  /usr/lib/x86_64-linux-gnu/libopenblas.so 
